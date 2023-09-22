@@ -1,0 +1,21 @@
+Watching for file changes with StatReloader
+/home/artem/learning_platform/core/views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /products/
+Bad Request: /products/
+Bad Request: /products/
+Bad Request: /lessons/
+Bad Request: /lessons/
+Bad Request: /lessons/
+Bad Request: /lessons/
+Bad Request: /view-history/
+Bad Request: /view-history/
+Not Found: /product-list-create
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Bad Request: /lessons/
+Bad Request: /lessons/
+Bad Request: /lessons/
+Bad Request: /lessons/
+/home/artem/learning_platform/core/validators/custom_validators.py changed, reloading.
+Watching for file changes with StatReloader
