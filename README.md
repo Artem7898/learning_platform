@@ -32,3 +32,12 @@
 Результат выполнения:
     1. Выполненная архитектура на базе данных SQLite с использованием Django.
     2. Реализованные API на базе готовой архитектуры.
+
+        вход в админ панель:
+    http://127.0.0.1:8000/admin/ 
+    login: adminCore
+    password: 560raketa
+    test Django Rest Framework
+    http://127.0.0.1:8000/products/ Product List Create
+    http://127.0.0.1:8000/lessons/  Lesson List Create
+    http://127.0.0.1:8000/view-history  View History List Create
